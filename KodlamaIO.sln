@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{D1FF0A45-CDCC-4EA4-B1E1-144FA25C36B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev.Dictionary", "Odev.Dictionary\Odev.Dictionary.csproj", "{3D1F26F4-6D5C-4AE6-B3A1-B54B4F09B890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D1FF0A45-CDCC-4EA4-B1E1-144FA25C36B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1FF0A45-CDCC-4EA4-B1E1-144FA25C36B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1FF0A45-CDCC-4EA4-B1E1-144FA25C36B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1F26F4-6D5C-4AE6-B3A1-B54B4F09B890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1F26F4-6D5C-4AE6-B3A1-B54B4F09B890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1F26F4-6D5C-4AE6-B3A1-B54B4F09B890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1F26F4-6D5C-4AE6-B3A1-B54B4F09B890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{1D8B6462-F30B-484A-93DB-B8DA6A1AA72D} = {CBC2F294-9DEC-426A-88AC-6594B6778168}
 		{F3BC5DED-3D77-4679-AAD2-0F3B0C5B6E53} = {CBC2F294-9DEC-426A-88AC-6594B6778168}
 		{D1FF0A45-CDCC-4EA4-B1E1-144FA25C36B2} = {CBC2F294-9DEC-426A-88AC-6594B6778168}
+		{3D1F26F4-6D5C-4AE6-B3A1-B54B4F09B890} = {CBC2F294-9DEC-426A-88AC-6594B6778168}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3D884A3-AD14-4AC1-A699-7812FD00B549}
